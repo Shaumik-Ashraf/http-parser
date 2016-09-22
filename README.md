@@ -1,3 +1,8 @@
+#This was forked from here:
+https://github.com/nodejs/http-parser
+
+All credits to them.
+
 HTTP Parser
 ===========
 
